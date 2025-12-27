@@ -1,0 +1,14 @@
+---
+:id: 362439171
+:submitters:
+- :name: SHIVANSHU ARYAN
+  :email: cs1240237@cse.iitd.ac.in
+- :name: ARNAV MEENA
+  :email: cs5240218@cse.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2025-10-25 16:56:15.310537000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2025-10-25 09:56:15.310537000 Z
+:status: processed
+:score: 98.0
